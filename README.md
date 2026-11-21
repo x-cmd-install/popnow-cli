@@ -14,15 +14,15 @@ x install popnow-cli
 
 ## Code insight
 
-Total: **9,905** lines of code across **68** files in the top 5 languages.
+Total: **12,045** lines of code across **84** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 5,420 | 544 | 419 | 42 |
-| JavaScript | 2,734 | 219 | 0 | 16 |
+| TypeScript | 6,744 | 652 | 521 | 53 |
+| JavaScript | 3,550 | 249 | 0 | 21 |
 | Json | 1,751 | 0 | 0 | 4 |
-| Markdown | 0 | 341 | 129 | 5 |
-| Text | 0 | 30 | 9 | 1 |
+| Markdown | 0 | 358 | 138 | 5 |
+| Text | 0 | 31 | 9 | 1 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **9,905** lines of code across **68** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.0` (2026-11-03)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **9,905** lines of code across **68** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 10
+- **Releases**: 1 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-21 | 1 | 2 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-22 | 1 | 2 | 0 | 0 | 0 | 9 |
-| last180d | 2026-05-24 | 1 | 2 | 0 | 0 | 0 | 9 |
-| 360d | 2025-11-25 | 1 | 2 | 0 | 0 | 0 | 9 |
-| last720d | 2024-11-30 | 1 | 2 | 0 | 0 | 0 | 10 |
+| 30d | 2026-10-22 | 1 | 2 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-22 | 1 | 2 | 0 | 0 | 0 | 12 |
+| 90d | 2026-08-23 | 1 | 2 | 0 | 0 | 0 | 12 |
+| last180d | 2026-05-25 | 1 | 2 | 0 | 0 | 0 | 12 |
+| 360d | 2025-11-26 | 1 | 2 | 0 | 0 | 0 | 12 |
+| last720d | 2024-12-01 | 1 | 2 | 0 | 0 | 0 | 13 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for popnow-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:50:02Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:49:47Z._
